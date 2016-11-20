@@ -1,11 +1,3 @@
-![HouseCanary: Powered by Python](https://i.imgsafe.org/79930d4.jpg)
-#HouseCanary Python Challenge: Paper Streets
-###The Challenge
-In the search for great Software Engineers, HouseCanary has an open Python challenge. If you submit a working solution, we'll send you a HouseCanary Python Challenge sticker (anywhere in the US).
-
-![HouseCanary Python Challenge Sticker](http://i.imgur.com/wFHYD13.png?1)
-
-This is also an opportunity for job seekers. If you’d like to be considered for a career at HouseCanary, please attach a resume along with your submission. Take a look at our [job openings](http://housecanary.com/careers) and see if you’re a match.
 
 
 ###Problem
@@ -46,8 +38,3 @@ A test suite is included. Use `python -m unittest tests` to run it. Look to the 
 ###Environment
 Your code will be run on either Python 2.7.6 or 3.5.1 with Numpy installed. Our test runner tries Python 2 first, then 3 if there's a failure.
 
-###Submitting
-Copy your `solution.py` into a secret [GitHub Gist](https://gist.github.com/) and send the link to challenge@housecanary.com. Include your mailing address in your email if you'd like a HouseCanary Python Challenge sticker. Make sure to attach your resume if you’re interested in a career at [HouseCanary](http://housecanary.com/careers).
-
-###Fine Print
-Prizes are while supplies last. Code must be the entrant's original work, and HouseCanary may refuse prizes for detected plagiarism. Prizes will be sent to USA addresses only. Limit one prize per household. Challenge may end at any time.
